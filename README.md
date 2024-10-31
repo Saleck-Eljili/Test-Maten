@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce programme attribue aléatoirement des Game Masters à des salles en fonction de leurs formations.
+Ce programme attribue aléatoirement des Game Masters à des salles.
 
 ## Prérequis
 
